@@ -11,7 +11,7 @@ export default function Home() {
       fontFamily: 'Arial, sans-serif'
     }}>
       <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>Hello, Brother David!</h1>
-      <p style={{ fontSize: '1.25rem' }}>Welcome to my web page. Where's YOUR web page?</p>
+      <p style={{ fontSize: '1.25rem' }}>Welcome to my web page. Where's YOUR web page? Again.</p>
     </div>
   )
 }
